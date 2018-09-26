@@ -16,6 +16,8 @@ class MrHernandez {
         System.out.println(doubleNum);
         System.out.println(doubleNum.toString());
         System.out.println(doubleNum.getClass());
+        String doubleString = String.valueOf(doubleNumber);
+        System.out.println(doubleString);
 
         boolean comparison1 = longNum < doubleNum;
         if (comparison1) {
