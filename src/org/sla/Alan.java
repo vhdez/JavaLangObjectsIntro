@@ -45,11 +45,9 @@ class Alan {
         double Area = Pi*Math.pow(a,2);
         System.out.println("The area of circle A is " + Area);
 
-        System.out.println("\n");
         double AreaII = Pi*Math.pow(b,2);
         System.out.println("The area of circle B is " + AreaII);
 
-        System.out.println("\n");
         double AreaIII = Pi*Math.pow(c,2);
         System.out.println("The area of circle C is " + AreaIII);
 
