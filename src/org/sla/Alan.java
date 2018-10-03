@@ -57,7 +57,7 @@ class Alan {
         System.out.println("Let's figure out the answer.");
         System.out.println("c - (a + b)");
         System.out.println(AreaIII + " - " + "(" + Area + " + "+ AreaII + ")");
-        System.out.println(AreaIII + " - " + Area + AreaII);
+        System.out.println(AreaIII + " - " + (Area + AreaII));
         System.out.println(AreaIII - Area + AreaII + " is the answer to the task");
         System.out.println("\n");
 
